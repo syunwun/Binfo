@@ -1,5 +1,5 @@
-# 2022/03/17
-Test to push on the VSCode
+# To explore whole genome sequence (WGS)
 
-# 2022/03/17
-Push all gDNA parsed scripts 
+## "explore_bacteria_genome": two pipeline to parse functional annotation data
+## "fetch_info_from_fa_gb": small scripts to parse fasta and genbank file
+
